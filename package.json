@@ -1,0 +1,29 @@
+{
+  "name": "hangman-cli",
+  "version": "1.0.0",
+  "description": "hangman game in cli, using node, function constructors and exports/requires",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danishakh/Hangman-CLI.git"
+  },
+  "keywords": [
+    "hangman",
+    "node",
+    "cli",
+    "constructors"
+  ],
+  "dependencies": {
+    "colors": "^1.1.2",
+    "inquirer": "*"
+  },
+  "author": "Danish Akhtar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danishakh/Hangman-CLI/issues"
+  },
+  "homepage": "https://github.com/danishakh/Hangman-CLI#readme"
+}
